@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jj8462jd\\source\\repos\\modernSale\\modernSale\\modernSale.csproj",
+      "projectUniqueName": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
       "projectName": "modernSale",
-      "projectPath": "C:\\Users\\jj8462jd\\source\\repos\\modernSale\\modernSale\\modernSale.csproj",
+      "projectPath": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
       "packagesPath": "C:\\Users\\jj8462jd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jj8462jd\\source\\repos\\modernSale\\modernSale\\obj\\",
+      "outputPath": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -29,28 +29,38 @@ namespace modernSale
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.pnlSideMenu = new System.Windows.Forms.Panel();
+            this.panelLogo = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel1.SuspendLayout();
+            this.btnOverview = new System.Windows.Forms.Button();
+            this.pnlDrpDwnMenu = new System.Windows.Forms.Panel();
+            this.btn1 = new System.Windows.Forms.Button();
+            this.btn2 = new System.Windows.Forms.Button();
+            this.btn3 = new System.Windows.Forms.Button();
+            this.pnlSideMenu.SuspendLayout();
+            this.pnlDrpDwnMenu.SuspendLayout();
             this.SuspendLayout();
             // 
-            // panel1
+            // pnlSideMenu
             // 
-            this.panel1.BackColor = System.Drawing.Color.DarkSlateGray;
-            this.panel1.Controls.Add(this.panel6);
-            this.panel1.Controls.Add(this.panel5);
-            this.panel1.Controls.Add(this.panel4);
-            this.panel1.Controls.Add(this.panel3);
-            this.panel1.Controls.Add(this.panel2);
-            this.panel1.Location = new System.Drawing.Point(3, 2);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(283, 759);
-            this.panel1.TabIndex = 0;
+            this.pnlSideMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(75)))), ((int)(((byte)(75)))), ((int)(((byte)(76)))));
+            this.pnlSideMenu.Controls.Add(this.pnlDrpDwnMenu);
+            this.pnlSideMenu.Controls.Add(this.btnOverview);
+            this.pnlSideMenu.Controls.Add(this.panelLogo);
+            this.pnlSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
+            this.pnlSideMenu.Location = new System.Drawing.Point(0, 0);
+            this.pnlSideMenu.Name = "pnlSideMenu";
+            this.pnlSideMenu.Size = new System.Drawing.Size(250, 755);
+            this.pnlSideMenu.TabIndex = 0;
+            // 
+            // panelLogo
+            // 
+            this.panelLogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(75)))), ((int)(((byte)(75)))), ((int)(((byte)(76)))));
+            this.panelLogo.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelLogo.Location = new System.Drawing.Point(0, 0);
+            this.panelLogo.Name = "panelLogo";
+            this.panelLogo.Size = new System.Drawing.Size(250, 99);
+            this.panelLogo.TabIndex = 2;
             // 
             // flowLayoutPanel1
             // 
@@ -59,45 +69,70 @@ namespace modernSale
             this.flowLayoutPanel1.Size = new System.Drawing.Size(512, 283);
             this.flowLayoutPanel1.TabIndex = 1;
             // 
-            // panel2
+            // btnOverview
             // 
-            this.panel2.BackColor = System.Drawing.Color.DarkCyan;
-            this.panel2.Location = new System.Drawing.Point(0, 146);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(280, 42);
-            this.panel2.TabIndex = 2;
+            this.btnOverview.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnOverview.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnOverview.FlatAppearance.BorderSize = 0;
+            this.btnOverview.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnOverview.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnOverview.Location = new System.Drawing.Point(0, 99);
+            this.btnOverview.Name = "btnOverview";
+            this.btnOverview.Size = new System.Drawing.Size(250, 40);
+            this.btnOverview.TabIndex = 2;
+            this.btnOverview.Text = "Overview";
+            this.btnOverview.UseVisualStyleBackColor = false;
             // 
-            // panel3
+            // pnlDrpDwnMenu
             // 
-            this.panel3.BackColor = System.Drawing.Color.DarkCyan;
-            this.panel3.Location = new System.Drawing.Point(0, 293);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(280, 42);
-            this.panel3.TabIndex = 3;
+            this.pnlDrpDwnMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.pnlDrpDwnMenu.Controls.Add(this.btn3);
+            this.pnlDrpDwnMenu.Controls.Add(this.btn2);
+            this.pnlDrpDwnMenu.Controls.Add(this.btn1);
+            this.pnlDrpDwnMenu.Dock = System.Windows.Forms.DockStyle.Top;
+            this.pnlDrpDwnMenu.Location = new System.Drawing.Point(0, 139);
+            this.pnlDrpDwnMenu.Name = "pnlDrpDwnMenu";
+            this.pnlDrpDwnMenu.Size = new System.Drawing.Size(250, 128);
+            this.pnlDrpDwnMenu.TabIndex = 3;
             // 
-            // panel4
+            // btn1
             // 
-            this.panel4.BackColor = System.Drawing.Color.DarkCyan;
-            this.panel4.Location = new System.Drawing.Point(3, 432);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(277, 42);
-            this.panel4.TabIndex = 4;
+            this.btn1.BackColor = System.Drawing.Color.DarkGreen;
+            this.btn1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btn1.FlatAppearance.BorderSize = 0;
+            this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn1.Location = new System.Drawing.Point(0, 0);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(250, 40);
+            this.btn1.TabIndex = 0;
+            this.btn1.Text = "button1";
+            this.btn1.UseVisualStyleBackColor = false;
             // 
-            // panel5
+            // btn2
             // 
-            this.panel5.BackColor = System.Drawing.Color.DarkCyan;
-            this.panel5.Location = new System.Drawing.Point(0, 358);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(280, 42);
-            this.panel5.TabIndex = 5;
+            this.btn2.BackColor = System.Drawing.Color.DarkGoldenrod;
+            this.btn2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btn2.FlatAppearance.BorderSize = 0;
+            this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn2.Location = new System.Drawing.Point(0, 40);
+            this.btn2.Name = "btn2";
+            this.btn2.Size = new System.Drawing.Size(250, 40);
+            this.btn2.TabIndex = 1;
+            this.btn2.Text = "button2";
+            this.btn2.UseVisualStyleBackColor = false;
             // 
-            // panel6
+            // btn3
             // 
-            this.panel6.BackColor = System.Drawing.Color.DarkCyan;
-            this.panel6.Location = new System.Drawing.Point(0, 217);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(280, 42);
-            this.panel6.TabIndex = 6;
+            this.btn3.BackColor = System.Drawing.Color.DarkRed;
+            this.btn3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btn3.FlatAppearance.BorderSize = 0;
+            this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn3.Location = new System.Drawing.Point(0, 80);
+            this.btn3.Name = "btn3";
+            this.btn3.Size = new System.Drawing.Size(250, 40);
+            this.btn3.TabIndex = 2;
+            this.btn3.Text = "button3";
+            this.btn3.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
@@ -105,26 +140,28 @@ namespace modernSale
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1216, 755);
             this.Controls.Add(this.flowLayoutPanel1);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.pnlSideMenu);
             this.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.panel1.ResumeLayout(false);
+            this.pnlSideMenu.ResumeLayout(false);
+            this.pnlDrpDwnMenu.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel pnlSideMenu;
+        private System.Windows.Forms.Panel panelLogo;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.Button btnOverview;
+        private System.Windows.Forms.Panel pnlDrpDwnMenu;
+        private System.Windows.Forms.Button btn3;
+        private System.Windows.Forms.Button btn2;
+        private System.Windows.Forms.Button btn1;
     }
 }
 
