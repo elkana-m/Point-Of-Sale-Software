@@ -1,4 +1,4 @@
-# myPOS
+# ModernSale
 
 DESCRIPTION
 --------
