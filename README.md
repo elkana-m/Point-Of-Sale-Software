@@ -1,6 +1,7 @@
-DESCRIPTION
+# DESCRIPTION
 ------------
-# myPOS
+myPOS
+--------
 This is a Modern Point Of Sales System design made in C#.
 This is a final project for my senior seminar class and 
 I intend to present this project at the Student Academic Conference.
