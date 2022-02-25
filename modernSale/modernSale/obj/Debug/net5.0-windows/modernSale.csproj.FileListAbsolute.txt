@@ -16,3 +16,21 @@ C:\Users\jj8462jd\Documents\PointOfSaleSoftware\myPOS\modernSale\modernSale\obj\
 C:\Users\jj8462jd\Documents\PointOfSaleSoftware\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\ref\modernSale.dll
 C:\Users\jj8462jd\Documents\PointOfSaleSoftware\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.pdb
 C:\Users\jj8462jd\Documents\PointOfSaleSoftware\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.genruntimeconfig.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.dll
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\ref\modernSale.dll
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.pdb
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.exe
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.deps.json
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.runtimeconfig.json
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.runtimeconfig.dev.json
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.dll
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\ref\modernSale.dll
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net5.0-windows\modernSale.pdb
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.csprojAssemblyReference.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.Form1.resources
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.csproj.GenerateResource.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.AssemblyInfoInputs.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.AssemblyInfo.cs
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.csproj.CoreCompileInputs.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net5.0-windows\modernSale.genruntimeconfig.cache

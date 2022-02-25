@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj": {}
+    "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\modernSale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj": {
+    "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\modernSale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
+        "projectUniqueName": "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
         "projectName": "modernSale",
-        "projectPath": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
-        "packagesPath": "C:\\Users\\jj8462jd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jj8462jd\\Documents\\PointOfSaleSoftware\\myPOS\\modernSale\\modernSale\\obj\\",
+        "projectPath": "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
+        "packagesPath": "C:\\Users\\MorAnn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jj8462jd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MorAnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -36,5 +36,20 @@ namespace modernSale
         {
 
         }
+
+        private void btnOverview_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelLogo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btn2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

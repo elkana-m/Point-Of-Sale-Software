@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\modernSale",
+    "\\modernSale\\modernSale"
   ],
+  "SelectedNode": "\\modernSale\\modernSale.sln",
   "PreviewInSolutionExplorer": false
 }
