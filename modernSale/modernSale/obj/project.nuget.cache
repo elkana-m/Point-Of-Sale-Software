@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nvsiCLHjU7iAU03T6LsuwYs/NPdDDtTsTJ7xBs0eV9oJl9Y7gSItRf/sGg05fvWwze96gNvlV1qONrI+zaACaw==",
+  "dgSpecHash": "lgwwrB3SDfkHMKKmE7sVUX/qYCtJDmiTKMFDm54L3BKWCX/LIA1iRB3SRdvwLDtss5V3hrJoIwA7anNd0kPgXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MorAnn\\OneDrive - MNSCU\\Documents\\myApp\\myPOS\\modernSale\\modernSale\\modernSale.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MorAnn\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512"
+  ],
   "logs": []
 }

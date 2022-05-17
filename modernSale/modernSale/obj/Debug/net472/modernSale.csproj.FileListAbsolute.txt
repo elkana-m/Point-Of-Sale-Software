@@ -1,0 +1,15 @@
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.DashboardForm.resources
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.Product.resources
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.Properties.Resources.resources
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.csproj.GenerateResource.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.AssemblyInfoInputs.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.AssemblyInfo.cs
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.csproj.CoreCompileInputs.cache
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net472\modernSale.exe.config
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net472\modernSale.exe
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net472\modernSale.pdb
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.csproj.CopyComplete
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.exe
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.pdb
+C:\Users\MorAnn\OneDrive - MNSCU\Documents\myApp\myPOS\modernSale\modernSale\obj\Debug\net472\modernSale.csprojAssemblyReference.cache
